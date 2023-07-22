@@ -1,2 +1,7 @@
 "use strict";
-console.log("I am Kashif Farooq from Batch 47");
+let firstName = "Kashif";
+let DOB = 14081979;
+let isMale = false;
+let unDefined;
+let select = null;
+console.log(firstName, DOB, isMale, unDefined, select);
